@@ -13,3 +13,4 @@ This project is based on generic ABB IRB 2400 MoveIt! project that you can find 
 Instructions:  
 * Clone this repo in catkin workspace in src folder
 * build the workspace using catkin_make command
+* source the workspace
