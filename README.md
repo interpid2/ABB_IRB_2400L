@@ -14,3 +14,5 @@ Instructions:
 * Clone this repo in catkin workspace in src folder
 * build the workspace using catkin_make command
 * source the workspace
+
+Note that this package is still experimental.
