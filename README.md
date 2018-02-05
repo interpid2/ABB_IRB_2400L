@@ -8,7 +8,7 @@ Used software:
 * Meshlab
 
 This project is based on generic ABB IRB 2400 MoveIt! project that you can find in 
-[ROS-Industral repository](https://github.com/ros-industrial/abb_experimental)
+[ROS-Industral repository](https://github.com/ros-industrial/abb/tree/kinetic)
 
 Instructions:  
 * Clone this repo in catkin workspace in src folder
